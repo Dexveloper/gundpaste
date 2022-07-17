@@ -3,6 +3,8 @@
 A fully decentralized Pastebin using P2P for data storage.
 dPaste is powered by the [gundb](https://gun.eco) library and written in React.
 
+https://envs.net/~grizzly/dpaste/
+
 ## Setup client
 
 ```
